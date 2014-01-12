@@ -8,7 +8,6 @@ import QSTK.qstkstudy.EventProfiler as ep
 import datetime as dt
 import matplotlib.pyplot as plt
 import pandas as pd
-import itertools as it
 import numpy as np
 import math
 import copy
